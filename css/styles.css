@@ -158,6 +158,10 @@ img {
   letter-spacing: 0.06em;
   color: #ffffff;
   cursor: pointer;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .hero-button:focus,
 .hero-button:hover {
