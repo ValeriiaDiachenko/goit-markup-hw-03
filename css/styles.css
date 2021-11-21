@@ -187,7 +187,6 @@ img {
   letter-spacing: 0.03em;
   color: var(--title-color);
   margin-bottom: 50px;
-  margin-top: 94px;
 }
 .section {
   padding-bottom: 94px;
@@ -247,7 +246,6 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-color);
-  margin-top: 30px;
 }
 .team-position {
   font-size: 16px;
@@ -260,11 +258,14 @@ img {
 
 .members-text {
   padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 /*---------------------------------------Footer-----------------*/
 .footer {
   background-color: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .footer span {
   color: var(--accent-color);
@@ -294,10 +295,6 @@ img {
   margin-bottom: 20px;
 }
 
-.footer-container {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
 .logo-footer {
   margin-bottom: 20px;
 }
